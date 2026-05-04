@@ -93,13 +93,5 @@ The project demonstrates how different machine learning models perform on housin
 * Scikit-learn
 * Matplotlib & Seaborn
 
----
-
-## 📁 Project Structure
-
-housing-price-prediction/
-│
-├── housing_model.ipynb
-├── README.md
 
 ---
